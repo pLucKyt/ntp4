@@ -22,18 +22,19 @@ a:hover{
     background-image: url("slike za html/pocetna/slika_pocetne.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;    
+    background-size: cover;
     height: 847px;
-    margin-top: 20px;    
+    margin-top: 20px;
 }
 
 #tekst{
-    max-height: 100%;
-    max-width: 100%;
-    box-sizing: border-box;
-    margin: auto;
-    display: block;
+    position: relative;
+    top: 46%;
+    left: 31%;
 }
+
+
+
 
 
 
