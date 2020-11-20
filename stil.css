@@ -43,9 +43,11 @@ h1{
     font-size: 40px;
     text-align: center;
     margin-top: 100px;
-    border-top: lawngreen;
-    border-style: solid;
-    
+    border-top: solid rgb(219, 217, 217) 1px;
+    border-bottom: solid rgb(219, 217, 217) 1px;
+    border-left: none;
+    border-right: none;    
+    padding: 80px;    
 }
 
 
