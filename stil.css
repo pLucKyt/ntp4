@@ -50,16 +50,56 @@ h1{
     padding: 80px;    
 }
 
+h2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
 
+.slike{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
 
+.obican{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
+.basic{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 49%;
+    padding-bottom: 50px;
+}
 
+.basica{
+    text-decoration: none;
+    color: #1279BE;
+}
 
+a.basica:hover{
+    color: black;
+}
 
-
-
-
-
+main{
+    margin-bottom: 125px;
+    border-bottom: solid rgb(219, 217, 217) 1px;
+}
 
 
 
