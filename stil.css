@@ -5,6 +5,7 @@
     color: rgb(17, 1, 1);
     margin: 350px;
     margin-right: 0px;
+    margin-bottom: 0px;
     text-decoration: none;
 }
 .desno{
@@ -20,13 +21,27 @@ a:hover{
     text-decoration: none;
 }
 
-#pocetna{
-    background-image: url("slike za html/pocetna/slika_pocetne.png");
+nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: lightgray;
+}
+
+#pocetna{    
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     height: 847px;
     margin-top: 20px;
+    margin-bottom:0px;
+}
+
+#start{
+    background-image: url("slike za html/pocetna/slika_pocetne.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 #tekst{
@@ -78,6 +93,7 @@ h2{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    text-align: justify;
 }
 
 .basic{
@@ -169,5 +185,13 @@ td{
     margin-top: 30px;
     height: 600px;
     margin-bottom: 100px;
+}
+
+#last2{
+    margin-top: 0px;
+}
+
+#last3{
+    margin-top: 50px;
 }
 
