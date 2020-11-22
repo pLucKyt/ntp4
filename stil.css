@@ -16,6 +16,7 @@
 }
 a:hover{
     color: #1279BE;
+    text-decoration: none;
 }
 
 #pocetna{
@@ -127,7 +128,9 @@ main{
     width: 50%;
 }
 
-
+#ispod_carousel{
+    margin-top: 50px;
+}
 
 
 
